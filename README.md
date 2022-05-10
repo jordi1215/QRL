@@ -1,6 +1,7 @@
 # quantum-reinforcement-learning
 This repository is created for the final project of CS 394R: Reinforcement Learning taken at UT, Austin. 
 Project Contributors are: Jordi Ramos and Benjamin Pachev. 
+
 Presentation slides: https://docs.google.com/presentation/d/1abrlKgSeyTP_ORuia_wSIjcEFQtxFqfgNg6KOaM4OvM/edit?usp=sharing.
 Presentation video link: https://youtu.be/RB9SSw_-shY
 
