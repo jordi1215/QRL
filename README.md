@@ -5,6 +5,7 @@ Project Contributors are: Jordi Ramos and Benjamin Pachev.
 
 Presentation slides: https://docs.google.com/presentation/d/1abrlKgSeyTP_ORuia_wSIjcEFQtxFqfgNg6KOaM4OvM/edit?usp=sharing.
 Presentation video link: https://youtu.be/RB9SSw_-shY
+
 Paper: https://www.dropbox.com/s/ymnj38dsdytzzgv/Quantum_Reinforcement_Learning.pdf?dl=0
 
 We decided to show our work in a notebook format with a link to our original Google Colab file. This way, the graders can see our results clearly. We have the following three files:
